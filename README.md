@@ -1,2 +1,1 @@
-# Task2
-タスク２の課題
+# # About my Task2 project on GitHub
